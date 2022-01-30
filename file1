@@ -1,4 +1,9 @@
 First File
 Second File
 Third File
+<<<<<<< HEAD
 Fourth File
+||||||| 5b5a460
+=======
+Four File
+>>>>>>> dev
